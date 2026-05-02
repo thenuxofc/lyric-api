@@ -1,0 +1,9 @@
+{
+  "name": "thenux-lyrics-api",
+  "version": "1.0.0",
+  "type": "module",
+  "creator": "THENUX",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
